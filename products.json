@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Lion",
+        "description": "חלב מפוסטר 3%",
+        "imgUrl": "https://m.media-amazon.com/images/I/81OUGWvNT9L._AC_UY1000_.jpg",
+        "content": "100 גרם",
+        "price": 5.2,
+        "isCooling": true,
+        "prodDate": "10-10-2022"
+    },
+    {
+        "id": 3,
+        "name": "לחם",
+        "description": "לחם אחיד פרוס",
+        "imgUrl": "https://ae01.alicdn.com/kf/S5fffe79edb074c0fa5c8f0f319289aceW/2024-romper.jpg_.webp",
+        "content": "750 גרם",
+        "price": 6.2,
+        "isCooling": false,
+        "prodDate": "10-10-2022"
+    },
+    {
+        "id": 4,
+        "name": "Duck",
+        "description": "גבינה 5%",
+        "imgUrl": "https://m.media-amazon.com/images/I/71YeegO50ML._AC_UY1000_.jpg",
+        "content": "500 גרם",
+        "price": 7.2,
+        "isCooling": true,
+        "company": "תנובה",
+        "prodDate": "5-5-2022"
+    },
+    {
+        "id": 5,
+        "name": "במבה",
+        "description": "חטיף בןטנים",
+        "imgUrl": "https://i5.walmartimages.com/seo/Rubie-s-Newborn-Infant-Teddy-Bear-Costume_79165922-540e-4e19-852d-9cef47e97060_1.7bf73ef4860710f32f8b08e01461174f.jpeg",
+        "content": "80 גרם",
+        "price": 7.2,
+        "isCooling": false,
+        "company": "אסם",
+        "prodDate": "5-5-2022"
+    }
+]
